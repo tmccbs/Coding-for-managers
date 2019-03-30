@@ -1,2 +1,2 @@
 # Coding-for-managers
-Product school class
+Product school class 1
